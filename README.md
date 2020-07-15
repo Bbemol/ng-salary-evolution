@@ -1,5 +1,8 @@
 # NgSalaryEvolution
 
+An web application which gives you the ability to visualize the evolution of your salary month after month
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
